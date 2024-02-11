@@ -24,7 +24,8 @@ blockquote {
 # Equidad, Rendición de Cuentas, Transparencia y Ética en el Aprendizaje Automático
 ### Departament de Matemàtiques i el Màster Universitari Investigació Aplicada en Estudis Feministes, de Gènere i Ciutadania. 9/02/2024
 
-Javier Sánchez Monedero (Universidad de Córdoba)
+Javier Sánchez Monedero. Universidad de Córdoba. 
+(jsanchez arroba uco.es)
 
 --- 
 
